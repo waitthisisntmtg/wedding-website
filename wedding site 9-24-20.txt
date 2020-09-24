@@ -1,0 +1,30 @@
+!DOCTYPE html
+<html><head><style>
+main
+{background-color:Aqua;
+color:black;}
+</style>
+</head><body><main>
+<h1>Nicole and Ethan's Wedding 05/11/2019</h1>
+
+
+<h2>Nicole and the girls before the wedding</h2>
+<!--add pics of nicole getting ready here-->
+
+
+
+<h2>Ethan and the boys before the wedding</h2><br>
+<!--add pics of ethan getting ready here-->
+<img src="https://i.imgur.com/TBQPeuJ.jpg" alt="Ethan and the boys">
+
+<h2>The Amazing Ceremony</h2>
+<!--add pics of the ceremony here-->
+
+<h2>The EPIC Party</h2>
+<!--pics of the party!-->
+
+
+<p>Thank you everyone who made it out for our special day, it was amazing having you all there! Hope you enjoy the pics as much as we have.<br>Love, Nicole and Ethan</p>
+
+
+</main></body></html>
